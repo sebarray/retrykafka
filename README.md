@@ -1,5 +1,7 @@
 # retrykafka
 
+![Go Logo](https://res.cloudinary.com/djkkmecjh/image/upload/logo_eovpts.png)
+
 Toolkit de fiabilidad **nativo de Kafka** para Go. Gestiona el ciclo de vida del mensaje — publicar, procesar, reintentos, DLQ, observabilidad, idempotencia y transacciones Kafka — con Kafka como única infraestructura obligatoria.
 
 ```text
